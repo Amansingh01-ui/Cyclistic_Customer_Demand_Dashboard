@@ -7,13 +7,13 @@ Business problem:
 3.	How can we apply customer usage insights to inform new station growth?
 
 Primary requirements: 
-•	A table or map visualization exploring starting and ending station locations, aggregated by location. 
-•	A visualization showing which destination (ending) locations are popular based on the total trip minutes.
-•	A visualization that focuses on trends from the summer of 2015.
-•	A visualization showing the percent growth in the number of trips year over year.
-•	Gather insights about congestion at stations.
-•	Gather insights about the number of trips across all starting and ending locations.
-•	Gather insights about peak usage by time of day, season, and the impact of weather.
+1. A table or map visualization exploring starting and ending station locations, aggregated by location. 
+2. A visualization showing which destination (ending) locations are popular based on the total trip minutes.
+3. A visualization that focuses on trends from the summer of 2015.
+4. A visualization showing the percent growth in the number of trips year over year.
+5. Gather insights about congestion at stations.
+6. Gather insights about the number of trips across all starting and ending locations.
+7. Gather insights about peak usage by time of day, season, and the impact of weather.
 
 
 #### Dashboard Link : https://public.tableau.com/app/profile/aman.singh6910/viz/CyclisticCustomerDemandDashboard/Seasonality
