@@ -1,4 +1,4 @@
-# Cyclistic_Customer_Demand_Dashboard
+# Cyclistic: Customer Demand Dashboard
 ![Cyclistic](https://github.com/Amansingh01-ui/Cyclistic_Customer_Demand_Dashboard/assets/76864608/28b2cde5-ca03-4301-bd8a-a814efb9e8d6)
 
 ## Business problem: 
